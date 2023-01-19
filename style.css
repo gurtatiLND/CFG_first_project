@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html {
+    font-family: 'Open+Sans', sans-serif;
+    box-sizing: border-box;
+    padding-left: 5%;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: bold;
+    color: #3c6255;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-family: sans-serif;
+    color: #61876e;
+    text-align: left;
+}
+.skills-list {
+    list-style: decimal-leading-zero;
+}
+body {
+    background-color: #a6bb8d;
+}
+button {
+    background-color: #eae7b1;
+}
